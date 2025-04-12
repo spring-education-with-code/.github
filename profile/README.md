@@ -1,5 +1,6 @@
 <h1>서비스 화면</h1>
-<img width="1440" alt="image" src="https://github.com/user-attachments/assets/dacca611-5593-4ed9-bcec-9e49f461b4d6" />
+<img width="1915" alt="image" src="https://github.com/user-attachments/assets/dc74673f-7a3d-4149-8730-f458e42167d2" />
+
 
 
 <h1>아키텍처</h1>
